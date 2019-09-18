@@ -1,0 +1,7 @@
+.board-container {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  align-content: space-between;
+  justify-content: space-between;
+}
